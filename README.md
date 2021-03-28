@@ -17,5 +17,5 @@ pip install scikit-surprise
 
 ## Usage
 
-Use the command `jupyter-notebook /path/to/rec_sys.ipynb`
+Use the command `jupyter-notebook /path/to/rec_sys.ipynb`.
 `"rec_sys.ipynb"` can be exported as a .py file, which can then be run using `python rec_sys.py` or `python3 rec_sys.py` depending on the aliasing of the `python3.8` executable.
